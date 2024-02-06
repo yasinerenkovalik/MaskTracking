@@ -1,0 +1,15 @@
+{
+  "providerId": "Microsoft.Tools.ServiceModel.Svcutil",
+  "version": "2.1.0",
+  "ExtendedData": {
+    "inputs": [
+      "https://tckimlik.nvi.gov.tr/Service/KPSPublic.asmx"
+    ],
+    "namespaceMappings": [
+      "*, Business.KPSPublic"
+    ],
+    "outputFile": "MernisServiceReference.cs",
+    "targetFramework": "net6.0",
+    "typeReuseMode": "All"
+  }
+}

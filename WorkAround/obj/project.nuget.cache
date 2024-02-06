@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "umk5lk0Nz2w2Y2wZ0MfPXslWpeu8SFYDapyznkeLh/lcv1bEZhV4VpJQ2Oul765OfdKfotSALo7TG+9jctoKiw==",
+  "success": true,
+  "projectFilePath": "/Users/yasineren/RiderProjects/MaskTracking/WorkAround/WorkAround.csproj",
+  "expectedPackageFiles": [
+    "/Users/yasineren/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/yasineren/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
